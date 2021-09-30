@@ -1,2 +1,20 @@
+.container{
+position: relative;
+width: 640px;
+height: 850px;
+
+background: #BCBCBC;
+mix-blend-mode: normal;
+border-radius: 31px;
+}
+
+body {font-family: 'Roboto', sans-serif;}
+h1{font-size: 7rem; line-height: 8rem;}
+h4{font-size: 1.25rem;}
+
+/* .row{
+  margin-bottom: 10px;
+} */
+
 
 /* css */
